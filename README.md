@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### How to generate a react boiler plate code.
+1. Create a folder in your file system.
+2. Open it using the VS code or any editor in which you are familiar.
+3. Open terminal in the editor and run "npm init react-app name of the folder where you want to put the boiler plate in my case it was "npm init react-app my-reactcounter".
+4. Thats it.
+
 ## Available Scripts
 
 In the project directory, you can run:
